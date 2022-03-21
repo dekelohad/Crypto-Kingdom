@@ -1,5 +1,5 @@
  
-## Crypto Kingdom - Get All The Info Regarding Your Favorite Crypto Currency
+## Crypto Kingdom - Get all the information you need regarding your favorite cryptocurrency.
  
  Live Demo: https://crypto-kingdomm.netlify.app/
  
