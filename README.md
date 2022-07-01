@@ -1,6 +1,8 @@
 # Crypto Kingdom 
 Get all the information you need about your favorite cryptocurrencies.
 
+Live Demo:https://crypto-kingdomm.netlify.app
+
 
 ## Technologies:
 React, React Hook Form, React-Query, Material-UI, Chart.js, Firebase.
